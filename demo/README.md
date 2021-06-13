@@ -1,13 +1,14 @@
 # random-password-generator
 
-  bpplaysguitar
-  bpplaysguitar@hotmail.com
+  bpplaysguitar  
   
+  bpplaysguitar@hotmail.com
+
 
   See the project live here:
-  [Live Link]bpplaysguitar.github.io/random-password-generator 
+  [Live Link](bpplaysguitar.github.io/random-password-generator)
 
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
 
   ![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/random-password-generator?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
 
@@ -23,15 +24,15 @@
 
       
   ## Description
-  it generates passwords
+  random
       
 
   ## Technologies Used
-  peanut butter and css
+  none
       
       
   ## Installation
-  nothing
+  no one
       
 
   ## Usage
@@ -40,7 +41,7 @@
       
       
   ## Credits
-  nobody
+  no one
       
 
   ## License
