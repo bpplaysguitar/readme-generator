@@ -6,7 +6,7 @@
 
 
   See the project live here:
-  [Live Link](bpplaysguitar.github.io/random-password-generator)
+  [Live Link](https://bpplaysguitar.github.io/random-password-generator)
 
   ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
 
