@@ -62,7 +62,7 @@ function init() {
         }
       ]
     )
-      .then((response) => writeFileAsync('README.md', generateMarkdown(response)))
+      .then((response) => writeFileAsync('./demo/README.md', generateMarkdown(response)))
       .then(() => console.log('Successfully wrote to README.md'))
       .catch((err) => console.error(err));
       }
