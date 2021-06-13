@@ -21,6 +21,11 @@ function init() {
         },
         {
           type: 'input',
+          message: 'What is your email address?',
+          name: 'email'
+        },
+        {
+          type: 'input',
           message: 'What is the title of the repository?',
           name: 'title'
         },
@@ -36,7 +41,7 @@ function init() {
         },
         {
           type: 'input',
-          message: 'Please enter the URL of a screenshot of gif of your application in use.',
+          message: 'Please enter the URL of a screenshot or gif of your application in use.',
           name: 'screenshotURL'
         },
         {
@@ -51,7 +56,7 @@ function init() {
         },
         {
           type: 'input',
-          message: 'Please note any credits you would like noted for the project',
+          message: 'Please write any credits you would like noted for the project',
           name: 'credits'
         },
         {

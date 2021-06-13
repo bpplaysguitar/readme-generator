@@ -14,9 +14,12 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  See the project live here:  
+  ${data.username}
+  ${data.email}
+  
 
-  ${data.liveURL} 
+  See the project live here:
+  [Live Link]${data.liveURL} 
 
   ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)
 

@@ -1,8 +1,11 @@
 # random-password-generator
 
-  See the project live here:  
+  bpplaysguitar
+  bpplaysguitar@hotmail.com
+  
 
-  bpplaysguitar.github.io/random-password-generator 
+  See the project live here:
+  [Live Link]bpplaysguitar.github.io/random-password-generator 
 
   ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)
 
@@ -20,15 +23,15 @@
 
       
   ## Description
-  it generates passwords, randomly
+  it generates passwords
       
 
   ## Technologies Used
-  baked potatoes and javascript
+  peanut butter and css
       
       
   ## Installation
-  don't mess it up
+  nothing
       
 
   ## Usage
