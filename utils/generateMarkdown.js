@@ -16,7 +16,7 @@ function generateMarkdown(data) {
 
       See the project live here:  
 
-      https://${data.username}.github.io/${data.title}/  
+      ${data.liveURL} 
 
       ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)<br>
       ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.title}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
@@ -43,11 +43,10 @@ function generateMarkdown(data) {
       ## Installation
       ${data.installation}
       
+
       ## Usage
-      
-      Animation of application in use
-      
-      ![](assets/images/professional-development-portfolio.gif)
+      Screenshot of application in use
+      ![${data.title}](${data.screenshotURL})
       
       
       ## Credits
@@ -56,7 +55,6 @@ function generateMarkdown(data) {
 
       ## License
       ${data.license}
-
 `;
 }
 
