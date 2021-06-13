@@ -31,7 +31,7 @@ function init() {
         },
         {
           type: 'input',
-          message: 'Please enter the URL of the live project website',
+          message: 'Please enter the URL of the live project website (make sure to include "https://").',
           name: 'liveURL'
         },
         {
@@ -56,7 +56,7 @@ function init() {
         },
         {
           type: 'input',
-          message: 'Please write any credits you would like noted for the project',
+          message: 'Please write any credits you would like noted for the project.',
           name: 'credits'
         },
         {

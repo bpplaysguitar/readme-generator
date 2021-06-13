@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ${data.username}  
-  
+
   ${data.email}
 
 
@@ -37,6 +37,14 @@ function generateMarkdown(data) {
   ![GitHub repo stars](https://img.shields.io/github/stars/${data.username}/${data.title}?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
 
       
+  ## Table of contents
+* [Description](#description)
+* [Technologies Used](#technologies-used)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+
   ## Description
   ${data.description}
       
