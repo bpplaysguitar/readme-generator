@@ -15,7 +15,6 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ${data.username}  
-
   ${data.email}
 
 
