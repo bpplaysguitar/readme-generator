@@ -14,14 +14,15 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ${data.username}
-  ${data.email}
+  ${data.username}  
   
+  ${data.email}
+
 
   See the project live here:
-  [Live Link]${data.liveURL} 
+  [Live Link](${data.liveURL})
 
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
 
   ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.title}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
 
