@@ -14,47 +14,48 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-      See the project live here:  
+  See the project live here:  
 
-      ${data.liveURL} 
+  ${data.liveURL} 
 
-      ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)<br>
-      ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.title}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)
 
-      ![GitHub repo size](https://img.shields.io/github/repo-size/${data.username}/${data.title}?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=for-the-badge)  
+  ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.title}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
 
-      ![GitHub followers](https://img.shields.io/github/followers/${data.username}?color=00FF00&logo=GitHub&logoColor=00FF00&style=for-the-badge)  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/${data.username}/${data.title}?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=for-the-badge)  
 
-      ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.title}?color=0000FF&logo=GitHub&logoColor=0000FF&style=for-the-badge)  
+  ![GitHub followers](https://img.shields.io/github/followers/${data.username}?color=00FF00&logo=GitHub&logoColor=00FF00&style=for-the-badge)  
 
-      ![GitHub license](https://img.shields.io/github/license/${data.username}/${data.title}?color=2E2B5F&logo=GitHub&logoColor=2E2B5F&style=for-the-badge)  
+  ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.title}?color=0000FF&logo=GitHub&logoColor=0000FF&style=for-the-badge)  
 
-      ![GitHub repo stars](https://img.shields.io/github/stars/${data.username}/${data.title}?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
+  ![GitHub license](https://img.shields.io/github/license/${data.username}/${data.title}?color=2E2B5F&logo=GitHub&logoColor=2E2B5F&style=for-the-badge)  
+
+  ![GitHub repo stars](https://img.shields.io/github/stars/${data.username}/${data.title}?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
 
       
-      ## Description
-      ${data.description}
+  ## Description
+  ${data.description}
       
 
-      ## Technologies Used
-      ${data.technologies}
+  ## Technologies Used
+  ${data.technologies}
       
       
-      ## Installation
-      ${data.installation}
-      
-
-      ## Usage
-      Screenshot of application in use
-      ![${data.title}](${data.screenshotURL})
-      
-      
-      ## Credits
-      ${data.credits}
+  ## Installation
+  ${data.installation}
       
 
-      ## License
-      ${data.license}
+  ## Usage
+  Screenshot of application in use
+  ![${data.title}](${data.screenshotURL})
+      
+      
+  ## Credits
+  ${data.credits}
+      
+
+  ## License
+  ${data.license}
 `;
 }
 

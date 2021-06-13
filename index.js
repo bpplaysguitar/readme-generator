@@ -36,7 +36,7 @@ function init() {
         },
         {
           type: 'input',
-          message: 'Please enter the URL of a screenshot of your application in use.',
+          message: 'Please enter the URL of a screenshot of gif of your application in use.',
           name: 'screenshotURL'
         },
         {
