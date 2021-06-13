@@ -53,7 +53,51 @@ inquirer
 
   fs.writeFile(
     fileName,
-    JSON.stringify(`Hello. This a file and the URL is ${data.liveurl}.`, null, '\t'),
+    JSON.stringify(
+    `##${data.repo}
+    See the project live here:
+
+    https://${data.username}.github.io/${data.repo}/
+
+    ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.repo}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge) 
+
+    ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.repo}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)
+    
+    ![GitHub repo size](https://img.shields.io/github/repo-size/${data.username}/${data.repo}?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=for-the-badge)
+    
+    ![GitHub followers](https://img.shields.io/github/followers/${data.username}?color=00FF00&logo=GitHub&logoColor=00FF00&style=for-the-badge)
+    
+    ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.repo}?color=0000FF&logo=GitHub&logoColor=0000FF&style=for-the-badge)
+    
+    ![GitHub license](https://img.shields.io/github/license/${data.username}/${data.repo}?color=2E2B5F&logo=GitHub&logoColor=2E2B5F&style=for-the-badge)
+    
+    ![GitHub repo stars](https://img.shields.io/github/stars/${data.username}/${data.repo}?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)
+    
+    ## Description
+    ${data.description}
+    
+
+    ## Technologies Used
+    ${data.technologies}
+    
+    
+    ## Installation
+    ${data.installation}
+    
+    ## Usage
+    
+    Animation of application in use
+    
+    ![](assets/images/professional-development-portfolio.gif)
+    
+    
+    ## Credits
+    ${data.credits}
+    
+
+    ## License
+    ${data.license}
+    `, null, '\t'),
 
 
 
