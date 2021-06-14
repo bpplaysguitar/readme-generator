@@ -22,7 +22,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ![](https://img.shields.io/badge/${data.license}-green)
+  ![](https://img.shields.io/badge/license-${data.license}-green)
 
 
   ${data.username}  
