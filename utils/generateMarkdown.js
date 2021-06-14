@@ -121,6 +121,7 @@ function generateMarkdown(data) {
       
 
   ## License
+  Copyright ${data.year} ${data.fullName}
   ${data.license}
   ${licenseLink}
         
