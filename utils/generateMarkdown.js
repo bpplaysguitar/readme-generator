@@ -16,47 +16,47 @@ function generateMarkdown(data) {
 
     case 'GNU General Public License v3.0':
       licenseLink = `<a href="https://choosealicense.com/licenses/gpl-3.0/">Read about the GNU General Public License v3.0 license</a>`;
-      licenseBadge = ``
+      licenseBadge = `Apache%202.0`
       break;
 
     case 'MIT License ':
       licenseLink = `<a href="https://choosealicense.com/licenses/gpl-3.0/">Read about the MIT License</a>`;
-      licenseBadge = ``
+      licenseBadge = `MIT`
       break;
 
     case 'BSD 2-Clause "Simplified" License':
       licenseLink = `<a href="https://choosealicense.com/licenses/gpl-3.0/">Read about the BSD 2-Clause "Simplified" License</a>`;
-      licenseBadge = ``
+      licenseBadge = `BSD%202-Clause`
       break;
 
     case 'BSD 3-Clause "New" or "Revised" License':
       licenseLink = `<a href="https://opensource.org/licenses/BSD-3-Clause">Read about the BSD 3-Clause "New" or "Revised" License</a>`;
-      licenseBadge = ``
+      licenseBadge = `BSD%203-Clause`
       break;
 
     case 'Boost Software License 1.0':
       licenseLink = `<a href="https://www.boost.org/LICENSE_1_0.txt">Read about the Boost Software License 1.0</a>`;
-      licenseBadge = ``
+      licenseBadge = `Boost%201.0`
       break;
 
     case 'Eclipse Public License 2.0':
       licenseLink = `<a href="https://opensource.org/licenses/EPL-2.0">Eclipse Public License 2.0</a>`;
-      licenseBadge = ``
+      licenseBadge = `EPL%201.0`
       break;
     
       case 'GNU Affero General Public License v3.0':
       licenseLink = `<a href="https://www.gnu.org/licenses/agpl-3.0">Read about the GNU Affero General Public License v3.0</a>`;
-      licenseBadge = ``
+      licenseBadge = `GPL%20v3`
       break;
     
       case 'GNU General Public License v2.0':
       licenseLink = `<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">Read about the GNU General Public License v2.0</a>`;
-      licenseBadge = ``
+      licenseBadge = `GPL%20v2`
       break;
       
     case 'GNU Lesser General Public License v2.1':
       licenseLink = `<a href="https://www.gnu.org/licenses/lgpl-3.0">Read about the GNU Lesser General Public License v2.1</a>`;
-      licenseBadge = ``
+      licenseBadge = `LGPL%20v2.1`
       break;
 
     case 'Mozilla Public License 2.0':
