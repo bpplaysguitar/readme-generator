@@ -19,7 +19,7 @@ function generateMarkdown(data) {
       licenseBadge = `Apache%202.0`
       break;
 
-    case 'MIT License ':
+    case 'MIT License':
       licenseLink = `<a href="https://choosealicense.com/licenses/gpl-3.0/">Read about the MIT License</a>`;
       licenseBadge = `MIT`
       break;
