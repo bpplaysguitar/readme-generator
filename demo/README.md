@@ -1,6 +1,6 @@
 # random-password-generator
 
-  ![random-password-generator](https://img.shields.io/static/v1?label=license&message=Boost1.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
+  ![random-password-generator](https://img.shields.io/static/v1?label=license&message=Apache2.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
  
   ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
 
@@ -31,34 +31,35 @@
 * [Questions](#questions)
 
   ## Description
-  Okay
+  nope
       
   #### Technologies Used
-  as
+  what
       
       
   ## Installation
-  asg
+  go
       
 
   ## Usage
   Screenshot of application in use
-  ![random-password-generator](cool)
+  ![random-password-generator](sorry)
       
 
   ## License
-  Boost1.0
+  Apache2.0
+  https://opensource.org/licenses/Apache-2.0
 
         
   ## Contributing
-  asg   
+  to    
   
   #### Credits
-  asg  
+  bed  
 
 
   ## Tests
-  asg   
+  okay   
 
 
   ## Questions

@@ -1,25 +1,38 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(badge) {
- }
-
-  
-  // [, ,, 'BSD 3-Clause "New" or "Revised" License', 'Boost Software License 1.0', 'Creative Commons Zero v1.0 Universal', 'Eclipse Public License 2.0', 'GNU Affero General Public License v3.0', 'GNU General Public License v2.0', 'GNU Lesser General Public License v2.1', 'Mozilla Public License 2.0', 'The Unlicense']
 
 
-
-
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(data) { 
-}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  let licenseLink;
+
+if (data.license = 'Apache2.0') {
+  licenseLink = 'https://opensource.org/licenses/Apache-2.0'
+} else if (data.license = 'GPLv3') {
+  licenseLink = 'https://www.gnu.org/licenses/gpl-3.0'
+} else if (data.license = 'MIT') {
+  licenseLink = 'https://opensource.org/licenses/MIT'
+} else if (data.license = 'BSD_2-Clause') {
+  licenseLink = 'https://opensource.org/licenses/BSD-2-Clause'
+} else if (data.license = 'BSD_3-Clause') {
+  licenseLink = 'https://opensource.org/licenses/BSD-3-Clause'
+} else if (data.license = 'Boost1.0') {
+  licenseLink = 'https://www.boost.org/LICENSE_1_0.txt'
+} else if (data.license = 'EPL2.0') {
+  licenseLink = 'https://opensource.org/licenses/EPL-2.0'
+} else if (data.license = 'AGPLv3') {
+  licenseLink = 'https://www.gnu.org/licenses/agpl-3.0'
+} else if (data.license = 'GPLv2') {
+  licenseLink = 'https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html'
+} else if (data.license = 'LGPLv2.1') {
+  licenseLink = 'https://www.gnu.org/licenses/lgpl-3.0'
+} else if (data.license = 'MPL2.0') {
+  licenseLink = 'https://opensource.org/licenses/MPL-2.0'
+} else {
+  licenseLink = 'http://unlicense.org/'
+}
+
+
+
   return `# ${data.title}
 
   ![${data.title}](https://img.shields.io/static/v1?label=license&message=${data.license}&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
@@ -70,6 +83,7 @@ function generateMarkdown(data) {
 
   ## License
   ${data.license}
+  ${licenseLink}
 
         
   ## Contributing
