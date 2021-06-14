@@ -74,7 +74,7 @@ function generateMarkdown(data) {
 
   return `# ${data.title}
 
-  ![${data.title}](https://img.shields.io/static/v1?label=license&message=${licenseBadge}&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
+  ![${data.title}](https://img.shields.io/static/v1?label=license&message=${licenseBadge}&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)  
  
   ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
 
@@ -84,14 +84,14 @@ function generateMarkdown(data) {
 
   ![GitHub followers](https://img.shields.io/github/followers/${data.username}?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
 
-  ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.title}?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat) 
+  ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.title}?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat)  
 
 
   ${data.username}  
   ${data.email}
 
 
-  See the project live here:
+  See the project live here:  
   [Deployed application](${data.liveURL})
 
       
@@ -116,13 +116,13 @@ function generateMarkdown(data) {
       
 
   ## Usage
-  Screenshot of application in use
+  Screenshot of application in use  
   ![${data.title}](${data.screenshotURL})
       
 
   ## License
-  Copyright ${data.year} ${data.fullName}
-  ${data.license}
+  Copyright ${data.year} ${data.fullName}  
+  ${data.license}  
   ${licenseLink}
         
   ## Contributing
