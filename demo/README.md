@@ -31,19 +31,19 @@
 * [Questions](#questions)
 
   ## Description
-  nope
+  no
       
   #### Technologies Used
-  what
+  fine
       
       
   ## Installation
-  go
+  cool
       
 
   ## Usage
   Screenshot of application in use
-  ![random-password-generator](sorry)
+  ![random-password-generator](okay fione)
       
 
   ## License
@@ -52,14 +52,14 @@
 
         
   ## Contributing
-  to    
+  man   
   
   #### Credits
-  bed  
+  sweet  
 
 
   ## Tests
-  okay   
+  a   
 
 
   ## Questions
