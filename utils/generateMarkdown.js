@@ -38,17 +38,17 @@ function generateMarkdown(data) {
       
   ## Table of contents
 * [Description](#description)
-* [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
   ## Description
   ${data.description}
       
-
-  ## Technologies Used
+  ### Technologies Used
   ${data.technologies}
       
       
@@ -60,13 +60,25 @@ function generateMarkdown(data) {
   Screenshot of application in use
   ![${data.title}](${data.screenshotURL})
       
-      
-  ## Credits
-  ${data.credits}
-      
 
   ## License
   ${data.license}
+
+        
+  ## Contributing
+  ${data.contributing}   
+  
+  ###Credits
+  ${data.credits}  
+
+  
+  ## Tests
+  ${data.tests}   
+
+
+  ## Questions
+  For questions about this project, I can be reached at:
+  ${data.email}   
 `;
 }
 

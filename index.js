@@ -56,8 +56,18 @@ function init() {
         },
         {
           type: 'input',
+          message: 'What do people need to know about contributing to the project?',
+          name: 'contributing'
+        },
+        {
+          type: 'input',
           message: 'Please write any credits you would like noted for the project.',
           name: 'credits'
+        },
+        {
+          type: 'input',
+          message: 'What tests were done to ensure the quality of the application?',
+          name: 'tests'
         },
         {
           type: 'list',
