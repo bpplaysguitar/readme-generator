@@ -3,35 +3,6 @@
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  let licenseLink;
-
-if (data.license = 'Apache2.0') {
-  licenseLink = 'https://opensource.org/licenses/Apache-2.0'
-} else if (data.license = 'GPLv3') {
-  licenseLink = 'https://www.gnu.org/licenses/gpl-3.0'
-} else if (data.license = 'MIT') {
-  licenseLink = 'https://opensource.org/licenses/MIT'
-} else if (data.license = 'BSD_2-Clause') {
-  licenseLink = 'https://opensource.org/licenses/BSD-2-Clause'
-} else if (data.license = 'BSD_3-Clause') {
-  licenseLink = 'https://opensource.org/licenses/BSD-3-Clause'
-} else if (data.license = 'Boost1.0') {
-  licenseLink = 'https://www.boost.org/LICENSE_1_0.txt'
-} else if (data.license = 'EPL2.0') {
-  licenseLink = 'https://opensource.org/licenses/EPL-2.0'
-} else if (data.license = 'AGPLv3') {
-  licenseLink = 'https://www.gnu.org/licenses/agpl-3.0'
-} else if (data.license = 'GPLv2') {
-  licenseLink = 'https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html'
-} else if (data.license = 'LGPLv2.1') {
-  licenseLink = 'https://www.gnu.org/licenses/lgpl-3.0'
-} else if (data.license = 'MPL2.0') {
-  licenseLink = 'https://opensource.org/licenses/MPL-2.0'
-} else {
-  licenseLink = 'http://unlicense.org/'
-}
-
-
 
   return `# ${data.title}
 
@@ -83,7 +54,6 @@ if (data.license = 'Apache2.0') {
 
   ## License
   ${data.license}
-  ${licenseLink}
 
         
   ## Contributing

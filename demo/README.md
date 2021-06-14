@@ -1,24 +1,24 @@
-# random-password-generator
+# AS
 
-  ![random-password-generator](https://img.shields.io/static/v1?label=license&message=Apache2.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
+  ![AS](https://img.shields.io/static/v1?label=license&message=EPL2.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
  
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/ASG/AS?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
 
-  ![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/random-password-generator?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
+  ![GitHub top language](https://img.shields.io/github/languages/top/ASG/AS?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/bpplaysguitar/random-password-generator?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ASG/AS?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
 
-  ![GitHub followers](https://img.shields.io/github/followers/bpplaysguitar?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
+  ![GitHub followers](https://img.shields.io/github/followers/ASG?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
 
-  ![GitHub language count](https://img.shields.io/github/languages/count/bpplaysguitar/random-password-generator?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat) 
+  ![GitHub language count](https://img.shields.io/github/languages/count/ASG/AS?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat) 
 
 
-  bpplaysguitar  
-  bpplaysguitar@hotmail.com
+  ASG  
+  ASF
 
 
   See the project live here:
-  [Deployed application](https://bpplaysguitar.github.io/random-password-generator)
+  [Deployed application](AS)
 
       
   ## Table of contents
@@ -31,37 +31,36 @@
 * [Questions](#questions)
 
   ## Description
-  no
+  GA
       
   #### Technologies Used
-  fine
+  SFDG
       
       
   ## Installation
-  cool
+  ZDF
       
 
   ## Usage
   Screenshot of application in use
-  ![random-password-generator](okay fione)
+  ![AS](G)
       
 
   ## License
-  Apache2.0
-  https://opensource.org/licenses/Apache-2.0
+  EPL2.0
 
         
   ## Contributing
-  man   
+  G   
   
   #### Credits
-  sweet  
+  SDGS  
 
 
   ## Tests
-  a   
+  SDG   
 
 
   ## Questions
   For questions about this project, I can be reached at:
-  bpplaysguitar@hotmail.com   
+  ASF   

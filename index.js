@@ -82,5 +82,33 @@ function init() {
       .catch((err) => console.error(err));
       }
 
+      // let licenseLink;
+
+      // if (response.license = 'Apache2.0') {
+      //   licenseLink = 'https://opensource.org/licenses/Apache-2.0'
+      // } else if (response.license = 'GPLv3') {
+      //   licenseLink = 'https://www.gnu.org/licenses/gpl-3.0'
+      // } else if (response.license = 'MIT') {
+      //   licenseLink = 'https://opensource.org/licenses/MIT'
+      // } else if (response.license = 'BSD_2-Clause') {
+      //   licenseLink = 'https://opensource.org/licenses/BSD-2-Clause'
+      // } else if (response.license = 'BSD_3-Clause') {
+      //   licenseLink = 'https://opensource.org/licenses/BSD-3-Clause'
+      // } else if (response.license = 'Boost1.0') {
+      //   licenseLink = 'https://www.boost.org/LICENSE_1_0.txt'
+      // } else if (response.license = 'EPL2.0') {
+      //   licenseLink = 'https://opensource.org/licenses/EPL-2.0'
+      // } else if (response.license = 'AGPLv3') {
+      //   licenseLink = 'https://www.gnu.org/licenses/agpl-3.0'
+      // } else if (response.license = 'GPLv2') {
+      //   licenseLink = 'https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html'
+      // } else if (response.license = 'LGPLv2.1') {
+      //   licenseLink = 'https://www.gnu.org/licenses/lgpl-3.0'
+      // } else if (response.license = 'MPL2.0') {
+      //   licenseLink = 'https://opensource.org/licenses/MPL-2.0'
+      // } else {
+      //   licenseLink = 'http://unlicense.org/'
+      // }
+
 // Function call to initialize app
 init();
