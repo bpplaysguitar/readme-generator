@@ -1,14 +1,14 @@
 # sd
 
-  ![badge](https://img.shields.io/static/v1?label=license&message=BSD 2-Clause&color=orange)
+  <img src='https://img.shields.io/static/v1?label=license&message=BSD 2-Clause&color=orange'>
 
 
   asg  
-  adg
+  dsg
 
 
   See the project live here:
-  [Deployed application](gsd)
+  [Deployed application](gsdg)
 
   ![GitHub code size](https://img.shields.io/github/languages/code-size/asg/sd?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
 
@@ -35,10 +35,10 @@
 * [Questions](#questions)
 
   ## Description
-  gsd
+  sd
       
   #### Technologies Used
-  dg
+  sdg
       
       
   ## Installation
@@ -47,7 +47,7 @@
 
   ## Usage
   Screenshot of application in use
-  ![sd](gs)
+  ![sd](gsdg)
       
 
   ## License
@@ -55,16 +55,16 @@
 
         
   ## Contributing
-  sdg   
+  sdh   
   
   #### Credits
-  sdg  
+  shd  
 
 
   ## Tests
-  sdg   
+  sdh   
 
 
   ## Questions
   For questions about this project, I can be reached at:
-  adg   
+  dsg   
