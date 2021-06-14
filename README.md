@@ -57,7 +57,7 @@ git clone https://github.com/bpplaysguitar/readme-generator.git,
 
 ## Usage
 Screenshot of application in use
-![readme-generator](.)
+![readme-generator](assets/images/readme-generator.gif)
       
       
 ## Credits
