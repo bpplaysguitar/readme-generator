@@ -20,12 +20,20 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-
-
   return `# ${data.title}
 
   ![${data.title}](https://img.shields.io/static/v1?label=license&message=${data.license}&color=orange)
  
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=flat)  
+
+  ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.title}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=flat)  
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/${data.username}/${data.title}?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=flat)  
+
+  ![GitHub followers](https://img.shields.io/github/followers/${data.username}?color=00FF00&logo=GitHub&logoColor=00FF00&style=flat)  
+
+  ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.title}?color=0000FF&logo=GitHub&logoColor=0000FF&style=flat) 
+
 
   ${data.username}  
   ${data.email}
@@ -33,20 +41,6 @@ function generateMarkdown(data) {
 
   See the project live here:
   [Deployed application](${data.liveURL})
-
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
-
-  ![GitHub top language](https://img.shields.io/github/languages/top/${data.username}/${data.title}?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/${data.username}/${data.title}?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=for-the-badge)  
-
-  ![GitHub followers](https://img.shields.io/github/followers/${data.username}?color=00FF00&logo=GitHub&logoColor=00FF00&style=for-the-badge)  
-
-  ![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.title}?color=0000FF&logo=GitHub&logoColor=0000FF&style=for-the-badge)  
-
-  ![GitHub license](https://img.shields.io/github/license/${data.username}/${data.title}?color=2E2B5F&logo=GitHub&logoColor=2E2B5F&style=for-the-badge)  
-
-  ![GitHub repo stars](https://img.shields.io/github/stars/${data.username}/${data.title}?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
 
       
   ## Table of contents
