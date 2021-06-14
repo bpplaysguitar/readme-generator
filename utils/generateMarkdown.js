@@ -19,7 +19,7 @@ function generateMarkdown(data) {
 
 
   See the project live here:
-  [Live Link](${data.liveURL})
+  [Deployed application](${data.liveURL})
 
   ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
 
