@@ -19,7 +19,17 @@ brianpalay@gmail.com
 
 ![GitHub repo stars](https://img.shields.io/github/stars/bpplaysguitar/weather-dashboard?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
 
-      
+
+  ## Table of contents
+* [Description](#description)
+* [Technologies Used](#technologies-used)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [Questions](#questions)      
+* [License](#license)
+
+
 ## Description
 This README Generator helps busy developers make sure they have high quality, professional-looking README.md files for their project repositories. The README Generator runs in the command line and is simple to use. It presents the user with some simple questions about their project, and displays their responses within a pre-fabricated layout. Developing this README Generator gave me exposure to some new types of programming, moving away from webpage-based applications and getting familiar with working with Node in the command line.
       
@@ -47,11 +57,15 @@ git clone https://github.com/bpplaysguitar/readme-generator.git,
 
 ## Usage
 Screenshot of application in use
-![readme-generator](https://github.com/bpplaysguitar/readme-generator/assets/images/readme-generator.gif)
+![readme-generator](.)
       
       
 ## Credits
 Professional README guide template provided by Coding Boot Camp. https://github.com/coding-boot-camp
+
+
+## Questions
+For questions about this project, I can be reached at brianpalay@gmail.com.
 
 
 ## License
