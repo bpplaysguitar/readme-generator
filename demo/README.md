@@ -1,35 +1,30 @@
 # random-password-generator
 
-  bpplaysguitar  
-  brianpalay@gmail.com
+  ![random-password-generator](https://img.shields.io/static/v1?label=license&message=MIT&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)  
+ 
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
+
+  ![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/random-password-generator?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/bpplaysguitar/random-password-generator?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
+
+  ![GitHub followers](https://img.shields.io/github/followers/bpplaysguitar?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
+
+  ![GitHub language count](https://img.shields.io/github/languages/count/bpplaysguitar/random-password-generator?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat)  
 
 
-  See the project live here:
-  [Deployed application](https://bpplaysuitar.github.io/random-password-generator)
-
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)  
-
-  ![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/random-password-generator?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/bpplaysguitar/random-password-generator?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=for-the-badge)  
-
-  ![GitHub followers](https://img.shields.io/github/followers/bpplaysguitar?color=00FF00&logo=GitHub&logoColor=00FF00&style=for-the-badge)  
-
-  ![GitHub language count](https://img.shields.io/github/languages/count/bpplaysguitar/random-password-generator?color=0000FF&logo=GitHub&logoColor=0000FF&style=for-the-badge)  
-
-  ![GitHub license](https://img.shields.io/github/license/bpplaysguitar/random-password-generator?color=2E2B5F&logo=GitHub&logoColor=2E2B5F&style=for-the-badge)  
-
-  ![GitHub repo stars](https://img.shields.io/github/stars/bpplaysguitar/random-password-generator?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
+  See the project live here:  
+  [Deployed application](https://bpplaysguitar.github.io/random-password-generator)
 
       
   ## Table of contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Description
   This assignment was to use Javascript to create a web application that will generate passwords using random methods, based on user input of character types to be used in the generation of the password. I was able to learn a lot of new ways to use Javascript, including building entire arrays based on front-end user interaction, more in depth "for" loop and "if" statement uses, and I became very familiar with ASCII character codes. I also learned in talking about this with some developer friends, what makes a truly secure password. We went over the math of the possible permutations. In short: the longer the better, more than anything else. It's a gratifying feeling to build a highly functional and truly useful application, test it over and over, and get it work the way you want.
@@ -43,13 +38,14 @@
       
 
   ## Usage
-  Screenshot of application in use
+  Screenshot of application in use  
   ![random-password-generator](https://github.com/bpplaysguitar/random-password-generator/raw/main/assets/images/random-password-generator.gif)
       
 
   ## License
-  MIT License
-
+  Copyright 2021 Brian Palay  
+  MIT License  
+  <a href="https://opensource.org/licenses/MIT">Read about the MIT License</a>
         
   ## Contributing
   Feel free to do what you'd like with my existing code, and with adding more code and creating your own project from it.   
@@ -59,9 +55,10 @@
 
 
   ## Tests
-  Many scenarios were run where the user would not select any character types for the password, or not specify a password length. I made sure the user has to provide the required input in order to generate a password.   
+  Many scenarios were run where the user would not select any character types for the password, or not specify a password length. I made sure the user has to provide the required input in order to generate a password.    
 
 
   ## Questions
-  For questions about this project, I can be reached at:
-  brianpalay@gmail.com   
+  For questions about this project, I can be reached at:  
+  brianpalay@gmail.com or  
+  https://github.com/bpplaysguitar
