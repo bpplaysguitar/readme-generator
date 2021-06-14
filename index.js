@@ -72,7 +72,7 @@ function init() {
         {
           type: 'list',
           message: 'What type of license will this project use?',
-          choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License','BSD 2-Clause "Simplified" License', 'BSD 3-Clause "New" or "Revised" License', 'Boost Software License 1.0', 'Creative Commons Zero v1.0 Universal', 'Eclipse Public License 2.0', 'GNU Affero General Public License v3.0', 'GNU General Public License v2.0', 'GNU Lesser General Public License v2.1', 'Mozilla Public License 2.0', 'The Unlicense'],
+          choices: ['Apache 2.0', 'GPL v3', 'MIT', 'BSD 2-Clause', 'BSD 3-Clause', 'Boost 1.0', 'EPL 2.0', 'AGPL v3', 'GPL v2', 'LGPLicense v2.1', 'MPL 2.0', 'Unlicense'],
           name: 'license'
         }
       ]
