@@ -5,19 +5,19 @@ Brian Palay <br>
 brianpalay@gmail.com
 
 
-![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/weather-dashboard?color=FF0000&logo=GitHub&logoColor=FF0000&style=for-the-badge)
+![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/weather-dashboard?color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
 
-![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/weather-dashboard?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=for-the-badge)  
+![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/weather-dashboard?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bpplaysguitar/weather-dashboard?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=for-the-badge)  
+![GitHub repo size](https://img.shields.io/github/repo-size/bpplaysguitar/weather-dashboard?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
 
-![GitHub followers](https://img.shields.io/github/followers/bpplaysguitar?color=00FF00&logo=GitHub&logoColor=00FF00&style=for-the-badge)  
+![GitHub followers](https://img.shields.io/github/followers/bpplaysguitar?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
 
-![GitHub language count](https://img.shields.io/github/languages/count/bpplaysguitar/weather-dashboard?color=0000FF&logo=GitHub&logoColor=0000FF&style=for-the-badge)  
+![GitHub language count](https://img.shields.io/github/languages/count/bpplaysguitar/weather-dashboard?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
 
-![GitHub license](https://img.shields.io/github/license/bpplaysguitar/weather-dashboard?color=2E2B5F&logo=GitHub&logoColor=2E2B5F&style=for-the-badge)  
+![GitHub license](https://img.shields.io/github/license/bpplaysguitar/weather-dashboard?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat)  
 
-![GitHub repo stars](https://img.shields.io/github/stars/bpplaysguitar/weather-dashboard?color=8B00FF&logo=GitHub&logoColor=8B00FF&style=for-the-badge)  
+![GitHub repo stars](https://img.shields.io/github/stars/bpplaysguitar/weather-dashboard?color=BDB2FF&logo=GitHub&logoColor=BDB2FF&style=flat)  
 
 
   ## Table of contents
