@@ -1,24 +1,24 @@
-# asf
+# random-password-generator
 
-  ![asf](https://img.shields.io/static/v1?label=license&message=GPLv3&color=FF0000&logo=GitHub&logoColor=FF0000&style=flat)
+  ![random-password-generator](https://img.shields.io/static/v1?label=license&message=Boost1.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
  
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/as/asf?color=FF0000&logo=GitHub&logoColor=FF0000&style=flat)  
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/random-password-generator?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
 
-  ![GitHub top language](https://img.shields.io/github/languages/top/as/asf?color=FF7F00&logo=GitHub&logoColor=FF7F00&style=flat)  
+  ![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/random-password-generator?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/as/asf?color=FFFF00&logo=GitHub&logoColor=FFFF00&style=flat)  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/bpplaysguitar/random-password-generator?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
 
-  ![GitHub followers](https://img.shields.io/github/followers/as?color=00FF00&logo=GitHub&logoColor=00FF00&style=flat)  
+  ![GitHub followers](https://img.shields.io/github/followers/bpplaysguitar?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
 
-  ![GitHub language count](https://img.shields.io/github/languages/count/as/asf?color=0000FF&logo=GitHub&logoColor=0000FF&style=flat) 
+  ![GitHub language count](https://img.shields.io/github/languages/count/bpplaysguitar/random-password-generator?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat) 
 
 
-  as  
-  asgf
+  bpplaysguitar  
+  bpplaysguitar@hotmail.com
 
 
   See the project live here:
-  [Deployed application](asd)
+  [Deployed application](https://bpplaysguitar.github.io/random-password-generator)
 
       
   ## Table of contents
@@ -31,36 +31,36 @@
 * [Questions](#questions)
 
   ## Description
-  fas
+  Okay
       
   #### Technologies Used
   as
       
       
   ## Installation
-  d
+  asg
       
 
   ## Usage
   Screenshot of application in use
-  ![asf](dasd)
+  ![random-password-generator](cool)
       
 
   ## License
-  GPLv3
+  Boost1.0
 
         
   ## Contributing
-  asd   
+  asg   
   
   #### Credits
-  asda  
+  asg  
 
 
   ## Tests
-  sfdasg   
+  asg   
 
 
   ## Questions
   For questions about this project, I can be reached at:
-  asgf   
+  bpplaysguitar@hotmail.com   
