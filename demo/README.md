@@ -1,24 +1,24 @@
-# AS
+# ash
 
-  ![AS](https://img.shields.io/static/v1?label=license&message=EPL2.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
+  ![ash](https://img.shields.io/static/v1?label=license&message=MPL%202.0&color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
  
-  ![GitHub code size](https://img.shields.io/github/languages/code-size/ASG/AS?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
+  ![GitHub code size](https://img.shields.io/github/languages/code-size/as/ash?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
 
-  ![GitHub top language](https://img.shields.io/github/languages/top/ASG/AS?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
+  ![GitHub top language](https://img.shields.io/github/languages/top/as/ash?color=FDFFB6&logo=GitHub&logoColor=FDFFB6&style=flat)  
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/ASG/AS?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/as/ash?color=CAFFBF&logo=GitHub&logoColor=CAFFBF&style=flat)  
 
-  ![GitHub followers](https://img.shields.io/github/followers/ASG?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
+  ![GitHub followers](https://img.shields.io/github/followers/as?color=9BF6FF&logo=GitHub&logoColor=9BF6FF&style=flat)  
 
-  ![GitHub language count](https://img.shields.io/github/languages/count/ASG/AS?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat) 
+  ![GitHub language count](https://img.shields.io/github/languages/count/as/ash?color=A0C4FF&logo=GitHub&logoColor=A0C4FF&style=flat) 
 
 
-  ASG  
-  ASF
+  as  
+  asg
 
 
   See the project live here:
-  [Deployed application](AS)
+  [Deployed application](dh)
 
       
   ## Table of contents
@@ -31,36 +31,36 @@
 * [Questions](#questions)
 
   ## Description
-  GA
+  dfh
       
   #### Technologies Used
-  SFDG
+  dfh4
       
       
   ## Installation
-  ZDF
+  4hs
       
 
   ## Usage
   Screenshot of application in use
-  ![AS](G)
+  ![ash](dzffhz)
       
 
   ## License
-  EPL2.0
-
+  Mozilla Public License 2.0
+  <a href="https://opensource.org/licenses/MPL-2.0">Read about the Mozilla Public License 2.0</a>
         
   ## Contributing
-  G   
+  fhzdfh   
   
   #### Credits
-  SDGS  
+  dfh  
 
 
   ## Tests
-  SDG   
+  4   
 
 
   ## Questions
   For questions about this project, I can be reached at:
-  ASF   
+  asg   
