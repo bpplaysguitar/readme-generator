@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
       
-  ### Technologies Used
+  #### Technologies Used
   ${data.technologies}
       
       
@@ -68,10 +68,10 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}   
   
-  ###Credits
+  #### Credits
   ${data.credits}  
 
-  
+
   ## Tests
   ${data.tests}   
 

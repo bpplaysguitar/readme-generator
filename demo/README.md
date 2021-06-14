@@ -32,14 +32,14 @@
 * [Questions](#questions)
 
   ## Description
-  it generates passwords
+  it generates passwords like 1234 or abc or password
       
-  ### Technologies Used
-  JS, HTML
+  #### Technologies Used
+  HTML, CSS, JS
       
       
   ## Installation
-  Just do it
+  Do it
       
 
   ## Usage
@@ -54,14 +54,14 @@
   ## Contributing
   Don't do it   
   
-  ###Credits
-  somebody helped  
+  #### Credits
+  Sam helped  
 
-  
+
   ## Tests
-  We made lots of READMEs   
+  We tried it   
 
 
   ## Questions
   For questions about this project, I can be reached at:
-  bpplaysguitar@hotmail.com  
+  bpplaysguitar@hotmail.com   
