@@ -1,4 +1,4 @@
-# readme-generator
+# Readme Generator
 
 Brian Palay <br>
 612-202-5710 <br>
