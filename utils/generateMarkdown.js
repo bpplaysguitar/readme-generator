@@ -24,8 +24,8 @@ function generateMarkdown(data) {
 
   return `# ${data.title}
 
-  <img src='https://img.shields.io/static/v1?label=license&message=${data.license}&color=orange'>
-
+  ![${data.title}](https://img.shields.io/static/v1?label=license&message=${data.license}&color=orange)
+ 
 
   ${data.username}  
   ${data.email}
