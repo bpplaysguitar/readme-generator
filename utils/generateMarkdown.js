@@ -20,12 +20,12 @@ function generateMarkdown(data) {
       break;
 
     case 'MIT License':
-      licenseLink = `<a href="https://choosealicense.com/licenses/gpl-3.0/">Read about the MIT License</a>`;
+      licenseLink = `<a href="https://opensource.org/licenses/MIT">Read about the MIT License</a>`;
       licenseBadge = `MIT`
       break;
 
     case 'BSD 2-Clause "Simplified" License':
-      licenseLink = `<a href="https://choosealicense.com/licenses/gpl-3.0/">Read about the BSD 2-Clause "Simplified" License</a>`;
+      licenseLink = `<a href="https://opensource.org/licenses/BSD-2-Clause">Read about the BSD 2-Clause "Simplified" License</a>`;
       licenseBadge = `BSD%202-Clause`
       break;
 
@@ -55,7 +55,7 @@ function generateMarkdown(data) {
       break;
       
     case 'GNU Lesser General Public License v2.1':
-      licenseLink = `<a href="https://www.gnu.org/licenses/lgpl-3.0">Read about the GNU Lesser General Public License v2.1</a>`;
+      licenseLink = `<a href="https://www.gnu.org/licenses/lgpl-2.1">Read about the GNU Lesser General Public License v2.1</a>`;
       licenseBadge = `LGPL%20v2.1`
       break;
 
