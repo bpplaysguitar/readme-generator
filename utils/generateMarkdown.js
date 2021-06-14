@@ -22,7 +22,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ![${data.title}](https://img.shields.io/static/v1?label=license&message=${data.license}?color=FF0000&logo=GitHub&logoColor=FF0000&style=flat)
+  ![${data.title}](https://img.shields.io/static/v1?label=license&message=${data.license}&color=FF0000&logo=GitHub&logoColor=FF0000&style=flat)
  
   ![GitHub code size](https://img.shields.io/github/languages/code-size/${data.username}/${data.title}?color=FF0000&logo=GitHub&logoColor=FF0000&style=flat)  
 
