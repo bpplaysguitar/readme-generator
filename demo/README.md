@@ -34,7 +34,7 @@
       
       
   ## Installation
-  Ensure you have a code editor such as Visual Studio Code, and you have a terminal installed for Windows or the built-in Mac Terminal, and you have installed Git and the GitHub Desktop application (see https://desktop.github.com) and have an account, clone this repository (git clone https://github.com/bpplaysguitar/random-password-generator.git), create your own repository on GitHub, edit in your code editor and use GitHub to work in your repository (https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
+  Ensure you have a code editor such as Visual Studio Code, and you have a terminal installed for Windows or the built-in Mac Terminal, and you have installed Git and the GitHub Desktop application (see https://desktop.github.com) and have an account, clone this repository (git clone https://github.com/bpplaysguitar/random-password-generator.git), create your own repository on GitHub, edit in your code editor and use GitHub to work in your repository (https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
       
 
   ## Usage
