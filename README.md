@@ -1,10 +1,5 @@
 # Readme Generator
 
-Brian Palay <br>
-612-202-5710 <br>
-brianpalay@gmail.com
-
-
 ![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/weather-dashboard?color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/weather-dashboard?color=FFD6A5&logo=GitHub&logoColor=FFD6A5&style=flat)  
@@ -56,8 +51,9 @@ git clone https://github.com/bpplaysguitar/readme-generator.git,
       
 
 ## Usage
-Screenshot of application in use
-![readme-generator](assets/images/readme-demo.gif)
+See a demo of the application
+https://youtu.be/S1CyQbMa4A4
+![readme-generator](assets/images/readmeGenerator.jpg)
       
       
 ## Credits
