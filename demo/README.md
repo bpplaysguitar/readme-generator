@@ -48,14 +48,14 @@
   <a href="https://opensource.org/licenses/MIT">Read about the MIT License</a>
         
   ## Contributing
-  Feel free to do what you'd like with my existing code, and with adding more code and creating your own project from it.   
+  Feel free to do what you'd like with my existing code, and with adding more code and creating your own project from it.        
   
   #### Credits
-  Professional README guide template provided by Coding Boot Camp. https://github.com/coding-boot-camp  
+  Professional README guide template provided by Coding Boot Camp. https://github.com/coding-boot-camp      
 
 
   ## Tests
-  Many scenarios were run where the user would not select any character types for the password, or not specify a password length. I made sure the user has to provide the required input in order to generate a password.   
+  Many scenarios were run where the user would not select any character types for the password, or not specify a password length. I made sure the user has to provide the required input in order to generate a password.     
 
 
   ## Questions
